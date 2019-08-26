@@ -8,3 +8,4 @@ Toto je můj druhý zkušební text pro git.
 Toto je můj druhý zkušební text pro git.
 Toto je můj druhý zkušební text pro git.
 aaa
+bbb
